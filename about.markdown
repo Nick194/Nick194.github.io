@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello my name is Nicholas Taylor!
+I am a software developer, I have experience developing java applications for the web using the Spring framework.
+Currently I am working for Airbus as a backend developer creating various web based applications in an agile environment.  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can find my GitHub here:[https://github.com/nick194](https://github.com/nick194)
+My Email:[nmtaylor1@outlook.com](nmtaylor1@outlook.com)
